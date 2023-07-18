@@ -1,1 +1,1 @@
-# sayi-tahmin-oyunu
+# python-sayi-tahmin-oyunu
