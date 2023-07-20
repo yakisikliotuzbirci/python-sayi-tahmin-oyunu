@@ -1,4 +1,5 @@
 import random
+
 def main():
     sayi = random.randint(1,100)
     hak = 5
